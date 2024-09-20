@@ -88,6 +88,7 @@ foreach ($user in $userInfo) {
     }
 }
 
+
 foreach ($filtered in $filteredRoleAssignments){
     $userUid = $filtered.UserUid
 
